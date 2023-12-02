@@ -9,14 +9,14 @@ Update / Put: http://localhost:5000//update/id/name
 Delete: http://localhost:5000/delete/id  
   
 # MySQL:
-I start by creating a database (database.sql file) and table within MySQL.  This will house our data from the API.  
+I start by creating a database (database.sql file) and table within MySQL.  This will house my data from the API.  
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/mysql.png" width="70%">
   
 # Index:
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/index.png" width="70%">
   
 # Create Functionality:  
-Add an entry named Layla which is automatically appended to the end of the list of entries.  
+Add an entry named Layla which is automatically appended to the end of the list of entries with the correct ascending id.
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/create.png" width="70%">
 
 # Read Functionality:  
@@ -28,5 +28,5 @@ Update "id" 2 to Shelby.
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/update.png" width="70%">
 
 # Delete Functionality:  
-Delete "id" 2.  Once an entry is removed, all of the remaining entries become updated.  
+Delete "id" 2.  Once an entry is removed, all of the remaining entries become updated with the correct ascending id.  
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/delete.png" width="70%">
