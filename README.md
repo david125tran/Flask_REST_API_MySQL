@@ -16,7 +16,7 @@ I start by creating a database (database.sql file) and table within MySQL.  This
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/index.png" width="70%">
   
 # Create Functionality:  
-Add an entry named Layla which is automatically appended to the end of the list of entries with the correct ascending id.
+Add an entry named Layla which is automatically appended to the end of the list of entries with the correct ascending id.  
 <img src="https://github.com/david125tran/Flask_REST_API_MySQL/blob/main/images/create.png" width="70%">
 
 # Read Functionality:  
